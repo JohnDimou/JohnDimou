@@ -1,4 +1,7 @@
 
+## **My repositories are private 🔐 but can be demonstrated upon request 👨‍💻📊.**
+<br>
+
 
 ## **👋 Hello, I’m John Dimou!**
 
@@ -33,8 +36,6 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 
 ## **🧑‍💻 Personal Projects**
-
-  
 
 <img src="https://imgur.com/3tOSYQq.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
