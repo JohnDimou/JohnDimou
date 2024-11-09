@@ -46,7 +46,7 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 •  **Frontend & Mobile**: Flutter, Dart, iOS/Android Development, Firebase 
 
-•  **DevOps**: Docker, Kubernetes, , ELK Stack, Linux Server Management
+•  **DevOps**: Docker, Kubernetes, ELK Stack, Linux Server Management (VPS), Tomcat
 
 •  **Game Development**: Unity 3D, C#, AR/VR SDKs (Vuforia)
 
