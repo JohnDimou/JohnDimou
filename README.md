@@ -28,7 +28,7 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 📊 Real-time monitoring tool for PBC Blockchain Nodes, backed by a **$20K grant** from Denmark based organisation to extend its capabilities and reach.
 
-•  [**Crypto Moment**](https://github.com/username/crypto-moment](https://www.producthunt.com/products/crypto-moment) (2022):
+•  [**Crypto Moment**](https://www.producthunt.com/products/crypto-moment) (2022):
 
 🪙 Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $20K (App + Server)**.
 
