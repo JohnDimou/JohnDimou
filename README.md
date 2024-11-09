@@ -1,6 +1,6 @@
 **👋 Hello, I’m John Dimou!**
 
-📍 Currently outsourced to **Deutsche Telekom (OTE)** as a Senior Java Software Engineer through Agile Actors vendor.
+📍 Currently outsourced to **Deutsche Telekom (OTE)** as a Senior Java Software Engineer through Agile Actors vendor. (2+ years)
 
 **🌟 About Me**
 
