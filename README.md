@@ -28,11 +28,11 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 📊 Real-time monitoring tool for PBC Blockchain Nodes, backed by a **$20K grant** from Denmark based organisation to extend its capabilities and reach.
 
-•  [**Crypto Moment**](https://github.com/username/crypto-moment) (2022):
+•  [**Crypto Moment**](https://github.com/username/crypto-moment](https://www.producthunt.com/products/crypto-moment) (2022):
 
-🪙 Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $10K**.
+🪙 Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $20K (App + Server)**.
 
-•  [**LifeRank AI**](https://github.com/username/liferank-ai) (2023):
+•  [**LifeRank AI**](https://apps.apple.com/lt/app/liferank-ai/id6736438022) (2023):
 
 🌐 Built for fun, LifeRank AI explores AI APIs to provide interactive life metrics, bringing data insights to life.
 
