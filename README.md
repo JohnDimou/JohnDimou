@@ -43,6 +43,10 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 📊 Real-time monitoring tool for PBC Blockchain Nodes, backed by a **$20K grant** from Denmark based organisation to extend its capabilities and reach.
 
+[📲 View on Android Google Play Store](https://play.google.com/store/apps/details?id=com.mpcnodeio.mpcstats&hl=en)
+
+[🍎 View on Apple App Store](https://apps.apple.com/gr/app/mpc-node-stats/id1661132518)
+
 <img src="https://imgur.com/ge9rG0q.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
 •  [**Crypto Moment**](https://www.producthunt.com/products/crypto-moment) (2022):
@@ -54,6 +58,8 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 •  [**LifeRank AI**](https://apps.apple.com/lt/app/liferank-ai/id6736438022) (2023):
 
 🌐 Built for fun, LifeRank AI explores AI APIs to provide interactive life metrics, bringing data insights to life.
+
+[🍎 View on Apple App Store](https://apps.apple.com/lt/app/liferank-ai/id6736438022)
 
   <br>
 
