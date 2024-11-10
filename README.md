@@ -1,4 +1,5 @@
 
+
 ## **My repositories are private 🔐 but can be demonstrated upon request 👨‍💻📊.**
 <br>
 
@@ -53,9 +54,18 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 🪙 Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $20K (App + Server)**.
 
+
+<img src="https://imgur.com/U54eWIu.png"  alt="Crypto Moment Screenshot 1"  width="15%">
+
+•  **1Bitcoin Wallet** (2023):
+
+🌐 1Bitcoin Wallet is a terminal-styled Flutter/Dart application built from scratch, designed to deliver non-custodial crypto wallet experience. Leveraging the power of BIP39, this wallet offers users secure access to their cryptocurrency across mainnet and testnet networks, with comprehensive support for legacy, SegWit, and native Bitcoin address types..
+
+(🤝 **Public Preview - Unavailable** - Source Code acquired for an undisclosed amount)
+
 <img src="https://imgur.com/oRsJi8A.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
-•  [**LifeRank AI**](https://apps.apple.com/lt/app/liferank-ai/id6736438022) (2023):
+•  [**LifeRank AI**](https://apps.apple.com/lt/app/liferank-ai/id6736438022) (2024):
 
 🌐 Built for fun, LifeRank AI explores AI APIs to provide interactive life metrics, bringing data insights to life.
 
