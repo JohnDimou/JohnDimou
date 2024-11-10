@@ -48,26 +48,36 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 [🍎 View on Apple App Store](https://apps.apple.com/gr/app/mpc-node-stats/id1661132518)
 
+---
 <img src="https://imgur.com/ge9rG0q.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
 •  [**Crypto Moment**](https://www.producthunt.com/products/crypto-moment) (2022):
 
-🪙 Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $20K (App + Server)**.
+🪙 A Real Time News Aggregator, collecting articles from 15+ rss feeds regarding Blockchain insights for the community. Achieved a notable milestone with the **sale of source code for $20K (App + Server)**.
 
+[🚀 View on Product Hunt ](https://www.producthunt.com/products/crypto-moment)
+
+---
 
 <img src="https://imgur.com/U54eWIu.png"  alt="Crypto Moment Screenshot 1"  width="15%">
+
+
 
 •  **1Bitcoin Wallet** (2023):
 
 🌐 1Bitcoin Wallet is a terminal-styled Flutter/Dart application built from scratch, designed to deliver non-custodial crypto wallet experience. Leveraging the power of BIP39, this wallet offers users secure access to their cryptocurrency across mainnet and testnet networks, with comprehensive support for legacy, SegWit, and native Bitcoin address types..
 
-(🤝 **Public Preview - Unavailable** - Source Code acquired for an undisclosed amount)
+ 🤝 **Public Preview - Unavailable** - Source Code acquired for an undisclosed amount - *Can be demonstrated on demand*
+
+---
 
 <img src="https://imgur.com/oRsJi8A.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
+
+
 •  [**LifeRank AI**](https://apps.apple.com/lt/app/liferank-ai/id6736438022) (2024):
 
-🌐 Built for fun, LifeRank AI explores AI APIs to provide interactive life metrics, bringing data insights to life.
+🌐 Built for fun, LifeRank AI explores AI APIs to provide interactive life metrics, bringing data insights to life. App leverages the power of Open API in combination with a sleek presentation using Syncfusion Charts.
 
 [🍎 View on Apple App Store](https://apps.apple.com/lt/app/liferank-ai/id6736438022)
 
