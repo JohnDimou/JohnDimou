@@ -42,7 +42,7 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 •  [**MPC Node Stats**](https://apps.apple.com/gr/app/mpc-node-stats/id1661132518?platform=iphone) (2021):
 
-📊 Real-time monitoring tool for PBC Blockchain Nodes, backed by a **$20K grant** from Denmark based organisation to extend its capabilities and reach.
+📊 Real-time monitoring tool for PBC Blockchain Nodes, backed by a Development Grant from Denmark based organisation to extend its capabilities and reach.
 
 [📲 View on Android Google Play Store](https://play.google.com/store/apps/details?id=com.mpcnodeio.mpcstats&hl=en)
 
