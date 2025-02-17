@@ -48,6 +48,12 @@ My journey includes a blend of self-driven learning through coding bootcamps, Go
 
 [🍎 View on Apple App Store](https://apps.apple.com/gr/app/mpc-node-stats/id1661132518)
 
+<nav>
+  <ul>
+    <li><a href="mpc-node-stats-privacy-policy.html">Privacy Policy</a></li>
+  </ul>
+</nav>
+
 ---
 <img src="https://imgur.com/ge9rG0q.png"  alt="Crypto Moment Screenshot 1"  width="15%">
 
